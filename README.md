@@ -1,4 +1,4 @@
-# SepsisGuard: Early Detection and Survival Prediction for Hospitalized Patients
+# Predicting Sepsis Risk during In-patient admissions
 
 ## Overview
 
